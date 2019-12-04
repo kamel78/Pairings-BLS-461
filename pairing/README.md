@@ -1,6 +1,6 @@
 # pairing 
 
-This is a Rust crate for using pairing-friendly elliptic curves: the [BLS12-461] construction is implemented. The code is an adaptation of the one published at [![Crates.io](https://img.shields.io/crates/v/pairing.svg)](https://crates.io/crates/pairing) #
+This is a Rust crate for using pairing-friendly elliptic curves: the [BLS12-461] construction is implemented. The code is an adaptation/enhancement of the one published at [![Crates.io](https://img.shields.io/crates/v/pairing.svg)](https://crates.io/crates/pairing) #
 
 ## [Documentation](https://docs.rs/pairing/)
 
